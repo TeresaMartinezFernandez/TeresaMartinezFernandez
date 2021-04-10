@@ -39,21 +39,14 @@ const teresa = {
                       },
 }
 ```
-[![Twitter: teresamarfer](https://img.shields.io/twitter/follow/teresamarfer?style=social)](https://twitter.com/teresamarfer)
-[![Linkedin: teresamarfer](https://img.shields.io/badge/-teresamarfer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teresamarfer/)](https://www.linkedin.com/in/teresamarfer/)
-[![GitHub TeresaMartinezFernandez](https://img.shields.io/github/followers/?label=follow&style=social)](https://github.com/TeresaMartinezFernandez)
 
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-
-<h2 align="center">Feel free to Connect 👥 with me on</h2>
 <p align="center">
-
-
-<a href="https://www.linkedin.com/in/teresamarfer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="teresamarfer" height="30" width="40" /></a>
-<a href="https://twitter.com/teresamarfer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="teresamarfer" height="30" width="40" /></a>
-<a href="mailto:teresamf64@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="teresaemail" height="30" width="40" /></a>
-
+<a href="https://www.linkedin.com/in/teresamarfer/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/teresamarfer"><img alt="Twitter" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=twitter"></a>
+<a href="mailto:teresamf64@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <!--

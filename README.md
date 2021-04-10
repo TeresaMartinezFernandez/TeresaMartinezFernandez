@@ -45,8 +45,8 @@ const teresa = {
 
 <p align="center">
 <a href="https://www.linkedin.com/in/teresamarfer/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/teresamarfer"><img alt="Twitter" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=twitter"></a>
-<a href="mailto:teresamf64@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://twitter.com/teresamarfer"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-teresamarfer__-blue?style=flat-square&logo=twitter"></a>
+<a href="mailto:teresamf64@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-teresamf64@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <!--

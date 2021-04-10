@@ -26,12 +26,24 @@
 - Trying to explore the mysteries.
 - Congratualtions on making through the shell.-->
 
-### 🗣 Languages and Tools
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<p align="left">   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+```javascript
+const teresa = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML5, CSS3],
+  tools: [React, Node],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        student: "Adalab",
+                      },
+}
+```
+[![Twitter: teresamarfer](https://img.shields.io/twitter/follow/teresamarfer?style=social)](https://twitter.com/teresamarfer)
+[![Linkedin: teresamarfer](https://img.shields.io/badge/-teresamarfer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teresamarfer/)](https://www.linkedin.com/in/teresamarfer/)
+[![GitHub TeresaMartinezFernandez](https://img.shields.io/github/followers/?label=follow&style=social)](https://github.com/TeresaMartinezFernandez)
 
 
-<p>    </p>
 
 
 <h2 align="center">Feel free to Connect 👥 with me on</h2>

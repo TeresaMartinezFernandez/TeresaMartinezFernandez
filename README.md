@@ -33,12 +33,18 @@ const teresa = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML5, CSS3],
   tools: [React, Node],
-  architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         student: "Adalab",
                       },
 }
 ```
+
+### Some of the technologies I have worked with-</br>
+![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
+![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
+![Gulp](http://img.shields.io/badge/-Gulp-000000?style=for-the-badge&logo=gulp)
+![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
+</br></br></br></br>
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>

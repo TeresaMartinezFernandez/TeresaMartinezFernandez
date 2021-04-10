@@ -1,7 +1,8 @@
 ### Hi I´m Teresa 👋
 
-
-![81da3d67ef1d16bca7c65002898a54f3b86df3e16a9b208983a6118a176592f8 0](https://user-images.githubusercontent.com/75627557/114276877-d8b45b80-9a28-11eb-9116-b6b2060db5fb.png)
+<img src="https://user-images.githubusercontent.com/75627557/114276877-d8b45b80-9a28-11eb-9116-b6b2060db5fb.png" width="400" height="300">
+<!--
+![81da3d67ef1d16bca7c65002898a54f3b86df3e16a9b208983a6118a176592f8 0](https://user-images.githubusercontent.com/75627557/114276877-d8b45b80-9a28-11eb-9116-b6b2060db5fb.png)-->
 
 <!-- Create a tabular data for blog posts-->
 ### ✔️ I'm currently learning

@@ -5,7 +5,6 @@
 <!-- Create a tabular data for blog posts-->
 ### ✔️ I'm currently learning
 - Typescript
-- Angular
 ### 💻 I'm working on
 - My personal project.
 ### 🌱 Goals for 2021
